@@ -1,0 +1,38 @@
+/* #all {
+    width: 100%;
+    height: 100%;
+} */
+
+.premligne {
+    width: 100%;
+    height: 30px;
+    background-color: rgba(0, 255, 255, 0.199);
+    display: flex;
+}
+
+.premligne div {
+    width: 30px;
+    height: 30px;
+    /* background-color: rgba(0, 0, 255, 0.317); */
+    border: 1px solid;
+}
+
+.black {
+    background-color: black;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.lightOrange {
+    background-color: rgba(255, 166, 0, 0.539);
+}
+
+.yellow {
+    background-color: yellow;
+}
